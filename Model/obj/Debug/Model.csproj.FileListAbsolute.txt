@@ -1,0 +1,11 @@
+C:\Users\codeb\source\repos\简单图书馆系统\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\codeb\source\repos\简单图书馆系统\Model\bin\Debug\Model.dll
+C:\Users\codeb\source\repos\简单图书馆系统\Model\bin\Debug\Model.pdb
+C:\Users\codeb\source\repos\简单图书馆系统\Model\obj\Debug\Model.dll
+C:\Users\codeb\source\repos\简单图书馆系统\Model\obj\Debug\Model.pdb
+E:\备份\简单图书馆系统\Model\bin\Debug\Model.dll
+E:\备份\简单图书馆系统\Model\bin\Debug\Model.pdb
+E:\备份\简单图书馆系统\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+E:\备份\简单图书馆系统\Model\obj\Debug\Model.dll
+E:\备份\简单图书馆系统\Model\obj\Debug\Model.pdb
+E:\备份\简单图书馆系统\Model\obj\Debug\Model.csproj.AssemblyReference.cache

@@ -1,0 +1,6 @@
+c:\users\codeb\source\repos\简单图书馆系统\Common\bin\Debug\Common.dll
+c:\users\codeb\source\repos\简单图书馆系统\Common\bin\Debug\Common.pdb
+c:\users\codeb\source\repos\简单图书馆系统\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+c:\users\codeb\source\repos\简单图书馆系统\Common\obj\Debug\Common.dll
+c:\users\codeb\source\repos\简单图书馆系统\Common\obj\Debug\Common.pdb
+C:\Users\codeb\source\repos\简单图书馆系统\Common\obj\Debug\Common.csprojAssemblyReference.cache
